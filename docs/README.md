@@ -1,3 +1,5 @@
+I worked on the shop class and the Gift class and mechanics
+
 # CS321 Fall 2018 Project (Section 002)
 
 Welcome to CS321's semester long project! Links to individual team documentation is below.
